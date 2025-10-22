@@ -22,13 +22,6 @@ Tech Stack
 	•	Libraries: NumPy, Pandas, scikit-learn, Matplotlib
 	•	Techniques: PCA, eigen-decomposition, logistic regression, cross-validation
 
-Repository Structure
-
-├── qtra338_EP_term1255.ipynb   # Main analysis notebook
-├── data/                       # Raw and processed FTIR spectral data
-├── figures/                    # Plots of variance, PCA projections, and reconstruction
-└── README.md                   # Project documentation
-
 Author
 
 Andy Tran
